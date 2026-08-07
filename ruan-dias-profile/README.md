@@ -4,15 +4,15 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/JrAutomatiza">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=8A8A96&center=true&vCenter=true&width=600&lines=Building+bridges+between+systems+that+don%27t+speak+the+same+language;CRM+%C3%97+ERP+%C3%97+REST+APIs+%C3%97+Webhooks;Automation+that+doesn%27t+break+at+3am" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=60A5FA" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0A0A0F&label=PROFILE+VIEWS" />
+<a href="https://www.linkedin.com/in/ruan-dias-150288251/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=60A5FA" /></a>
+<a href="mailto:ruandiascomercial@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+<img src="https://komarev.com/ghpvc/?username=JrAutomatiza&style=for-the-badge&color=0A0A0F&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -113,14 +113,14 @@ A simplified view of the kind of integration layer I build for client onboarding
 <tr>
 <td width="50%">
 
-**🔗 [experiment-name-one](https://github.com/YOUR_USERNAME/repo-one)**
+**🔗 [experiment-name-one](https://github.com/JrAutomatiza/repo-one)**
 <br/>
 <sub>Short, honest description of what it actually does.</sub>
 
 </td>
 <td width="50%">
 
-**🔗 [experiment-name-two](https://github.com/YOUR_USERNAME/repo-two)**
+**🔗 [experiment-name-two](https://github.com/JrAutomatiza/repo-two)**
 <br/>
 <sub>Short, honest description of what it actually does.</sub>
 
@@ -151,12 +151,12 @@ A simplified view of the kind of integration layer I build for client onboarding
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=A78BFA&icon_color=60A5FA&text_color=C9C9D4" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=A78BFA&text_color=C9C9D4" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=JrAutomatiza&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=A78BFA&icon_color=60A5FA&text_color=C9C9D4" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrAutomatiza&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=A78BFA&text_color=C9C9D4" width="30%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0A0A0F&ring=A78BFA&fire=34D399&currStreakLabel=C9C9D4" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JrAutomatiza&theme=dark&hide_border=true&background=0A0A0F&ring=A78BFA&fire=34D399&currStreakLabel=C9C9D4" width="60%" />
 
 </div>
 
@@ -191,8 +191,8 @@ A simplified view of the kind of integration layer I build for client onboarding
 
 If you're dealing with a CRM/ERP integration that refuses to behave, or want to talk architecture — reach out.
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=60A5FA" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Reach%20Out-0A0A0F?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+<a href="https://www.linkedin.com/in/ruan-dias-150288251/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=60A5FA" /></a>
+<a href="mailto:ruandiascomercial@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-0A0A0F?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
 
 <br/><br/>
 <sub>© Ruan Dias — Built with intent, not a template.</sub>
