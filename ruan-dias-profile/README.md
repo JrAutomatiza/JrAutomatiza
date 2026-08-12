@@ -137,15 +137,6 @@ A simplified view of the kind of integration layer I build for client onboarding
 
 <br/>
 
-## Contribution Graph
-
-<div align="center">
-<img src="./assets/snake-dark.svg" width="100%" alt="Contribution snake animation" />
-<sub>Generated automatically by the workflow in <code>.github/workflows/snake.yml</code></sub>
-</div>
-
-<br/>
-
 ## Currently Learning
 
 <table>
