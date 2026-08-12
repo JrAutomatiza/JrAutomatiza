@@ -105,31 +105,6 @@ A simplified view of the kind of integration layer I build for client onboarding
 
 <br/>
 
-## Selected Work
-
-> Most of what I build lives in **private repositories** — client CRM/ERP integrations, internal automation tooling, and infrastructure that isn't mine to publish. What's public here is a small set of **self-contained experiments**: things I build to learn, stress-test an idea, or share a pattern that isn't tied to client work.
-
-<table>
-<tr>
-<td width="50%">
-
-**🔗 [experiment-name-one](https://github.com/JrAutomatiza/repo-one)**
-<br/>
-<sub>Short, honest description of what it actually does.</sub>
-
-</td>
-<td width="50%">
-
-**🔗 [experiment-name-two](https://github.com/JrAutomatiza/repo-two)**
-<br/>
-<sub>Short, honest description of what it actually does.</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## Tech Stack
 
 <div align="center">
